@@ -1,0 +1,13 @@
+streamlit
+pypdf
+python-docx
+pytesseract
+pillow
+pandas
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+requests
+python-dotenv
